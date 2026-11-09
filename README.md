@@ -11,6 +11,13 @@ O **DSA AI Coder** permite que o usuário faça perguntas sobre programação e 
 
 ---
 
+### 🖥️ Tela da Aplicação
+
+![DSA AI Coder](dsa-ai-coder.png)
+
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 Desenvolver um assistente pessoal de programação que facilite o aprendizado de **Python**, auxiliando na compreensão de conceitos, na elaboração de códigos e na resolução de problemas relacionados à linguagem.
