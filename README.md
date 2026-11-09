@@ -1,79 +1,78 @@
-🤖 DSA AI Coder — Assistente Pessoal de Programação Python
+# 🤖 DSA AI Coder
+## Assistente Pessoal de Programação Python 🐍
 
-Aplicação desenvolvida em Python com Streamlit e integração com inteligência artificial, com o objetivo de auxiliar iniciantes no aprendizado da linguagem Python.
+---
 
-O DSA AI Coder permite que o usuário faça perguntas sobre programação e receba respostas com explicações didáticas, exemplos de código e referências à documentação oficial.
+### 📌 Apresentação
 
-🎯 Objetivo do Projeto
+Aplicação desenvolvida em **Python**, utilizando o framework **Streamlit** e integração com inteligência artificial, com o objetivo de auxiliar iniciantes no aprendizado da linguagem Python.
 
-Desenvolver um assistente pessoal de programação que facilite o aprendizado de Python, auxiliando na compreensão de conceitos, na elaboração de códigos e na resolução de problemas relacionados à linguagem.
+O **DSA AI Coder** permite que o usuário faça perguntas sobre programação e receba explicações didáticas, exemplos de código e referências à documentação oficial.
 
-🚀 Funcionalidades
+---
 
-Responder a dúvidas sobre a linguagem Python.
+## 🎯 Objetivo do Projeto
 
-Explicar conceitos fundamentais de programação.
+Desenvolver um assistente pessoal de programação que facilite o aprendizado de **Python**, auxiliando na compreensão de conceitos, na elaboração de códigos e na resolução de problemas relacionados à linguagem.
 
-Gerar exemplos de código em Python.
+---
 
-Apresentar explicações detalhadas sobre o funcionamento dos códigos.
+## 🚀 Funcionalidades
 
-Auxiliar na resolução de problemas de programação.
+- **Esclarecimento de dúvidas:** respostas sobre a linguagem Python.
+- **Explicações didáticas:** apresentação de conceitos fundamentais.
+- **Geração de código:** exemplos práticos em Python.
+- **Análise de códigos:** explicações sobre o funcionamento dos comandos.
+- **Resolução de problemas:** auxílio na construção de soluções.
+- **Referências:** indicação da documentação oficial do Python.
 
-Fornecer referências à documentação oficial do Python.
+---
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-Python: linguagem utilizada no desenvolvimento da aplicação.
+| Tecnologia | Aplicação no Projeto |
+|:---|:---|
+| **Python** | Linguagem de desenvolvimento. |
+| **Streamlit** | Criação da interface web. |
+| **Inteligência Artificial** | Geração de respostas e explicações. |
+| **GitHub** | Hospedagem e versionamento do código. |
+| **Streamlit Community Cloud** | Publicação da aplicação na internet. |
 
-Streamlit: framework utilizado para criar a interface web interativa.
+---
 
-Inteligência Artificial: tecnologia utilizada para gerar respostas e explicações sobre programação.
+## 🌐 Aplicação em Funcionamento
 
-GitHub: plataforma utilizada para hospedagem e versionamento do código-fonte.
+[**🚀 Acessar DSA AI Coder**](https://dsa-assistente-bjdycprgig4hauxwna9gth.streamlit.app/)
 
-Streamlit Community Cloud: serviço utilizado para publicação da aplicação na internet.
+---
 
-🌐 Aplicação em Funcionamento
+## 📂 Estrutura do Projeto
 
-Acesse e experimente o assistente:
+| Arquivo | Descrição |
+|:---|:---|
+| `dsa_assistente.py` | Código principal da aplicação. |
+| `requirements.txt` | Dependências necessárias para execução. |
+| `.gitignore` | Arquivos ignorados pelo Git. |
+| `README.md` | Documentação do projeto. |
 
-DSA AI Coder — Assistente Pessoal de Programação Python
+---
 
-📂 Estrutura do Projeto
+## 📚 Contexto Educacional
 
-Arquivo
+Projeto desenvolvido como parte dos estudos do curso gratuito **Fundamentos de Linguagem Python**, oferecido pela **Data Science Academy (DSA)**.
 
-Descrição
+A aplicação representa uma atividade prática envolvendo programação Python, integração com inteligência artificial, criação de interfaces web e publicação de aplicações na nuvem.
 
-dsa_assistente.py
+---
 
-Código principal da aplicação.
+## ⚠️ Observação
 
-requirements.txt
+As respostas geradas por inteligência artificial podem apresentar imprecisões. Recomenda-se verificar os códigos, testar os exemplos e consultar a documentação oficial.
 
-Lista de bibliotecas e dependências necessárias para execução.
+---
 
-.gitignore
+## 👨‍💻 Desenvolvedor
 
-Define arquivos e diretórios que devem ser ignorados pelo Git.
+**Márcio Augusto Mazzochi**
 
-README.md
-
-Documentação e apresentação do projeto.
-
-📚 Contexto Educacional
-
-Projeto desenvolvido como parte dos estudos do curso gratuito Fundamentos de Linguagem Python, oferecido pela Data Science Academy (DSA).
-
-A aplicação representa uma atividade prática de desenvolvimento utilizando Python, integração com inteligência artificial, criação de interfaces interativas e publicação de aplicações web.
-
-⚠️ Observação
-
-As respostas geradas por inteligência artificial podem apresentar imprecisões. Por isso, é importante verificar os códigos, testar os exemplos e consultar a documentação oficial antes de utilizar as soluções apresentadas.
-
-👨‍💻 Desenvolvedor
-
-Márcio Augusto Mazzochi
-
-Projeto educacional: DSA AI Coder.
+**Projeto educacional:** DSA AI Coder.
