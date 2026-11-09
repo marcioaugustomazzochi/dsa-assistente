@@ -1,4 +1,3 @@
-
 🤖 DSA AI Coder — Assistente Pessoal de Programação Python
 
 Aplicação desenvolvida em Python com Streamlit, utilizando inteligência artificial para auxiliar iniciantes no aprendizado da linguagem Python.
@@ -60,4 +59,5 @@ A aplicação representa uma atividade prática de desenvolvimento com Python, i
 As respostas geradas por inteligência artificial podem conter erros. Recomenda-se verificar os códigos e as explicações antes de utilizá-los.
 
 Projeto educacional — DSA AI Coder
+
 Desenvolvido por Marcio Augusto Mazzochi.
